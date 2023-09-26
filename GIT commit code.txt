@@ -1,0 +1,14 @@
+GIT should be installed.
+
+
+
+Steps
+Open Git bash using right click in the folder we are.
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/DavinderDSS/Altoro.git
+git branch -M main
+git remote add origin https://github.com/DavinderDSS/Altoro.git
+git branch -M main
+git push -u origin min
+git push -u origin main
